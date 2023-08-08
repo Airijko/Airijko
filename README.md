@@ -4,7 +4,7 @@
 <div align="center" ><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7f79add4-cd7b-46e0-80ce-1142f7da12cb/d6ay2zy-19dfac76-7089-451a-891f-033ea78c6a58.png/v1/fit/w_400,h_126/aatrox_by_silentlipz_d6ay2zy-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI2IiwicGF0aCI6IlwvZlwvN2Y3OWFkZDQtY2Q3Yi00NmUwLTgwY2UtMTE0MmY3ZGExMmNiXC9kNmF5Mnp5LTE5ZGZhYzc2LTcwODktNDUxYS04OTFmLTAzM2VhNzhjNmE1OC5wbmciLCJ3aWR0aCI6Ijw9NDAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.N4nKrxlQTkLiivC0lwDSzk-iVM_b9j2dqTh9S8UVfok" width="100%"/> </div>
 
 <div align="left">
-  <img src="https://imgs.search.brave.com/8rSfXLsNdv3Ofz8FFg1u1qNHjYFd706UQ31H7v-_82E/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5ncnkt/Y2F0LWFubm95ZWQt/dXNpbmctbGFwdG9w/LXhrNjJzeWh0b2dz/dXVzdDUuZ2lm.gif" width 25vh
+  <img src="https://imgs.search.brave.com/8rSfXLsNdv3Ofz8FFg1u1qNHjYFd706UQ31H7v-_82E/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5ncnkt/Y2F0LWFubm95ZWQt/dXNpbmctbGFwdG9w/LXhrNjJzeWh0b2dz/dXVzdDUuZ2lm.gif" width 25%
 </div>
 
 <h3 align="left">Connect with me:</h3>
