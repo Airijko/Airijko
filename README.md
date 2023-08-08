@@ -1,4 +1,4 @@
-<h1 align="center">🔥 Hi 👋, I'm Jojo aka Airijko 🔥</h1>
+<title align="center">🔥 Hi 👋, I'm Jojo aka Airijko 🔥</title>
 <h3 align="center">I am a student at Red River College, taking the Business Information Technology program</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=airijko&label=Profile%20views&color=0e75b6&style=flat" alt="airijko" /> </p>
