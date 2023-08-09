@@ -7,8 +7,8 @@
 
 <ul>
 <li>I am currently working on a side project with a friend called "Forever Free"</li>
-<li>I'm self teaching myself in NextJS</li>
-<li>My goal is to become really good at frontend and database</li>
+<li>I'm self teaching myself NextJS and TailwindCSS</li>
+<li>My goal is to become a master in full stack</li>
 </ul>
 
 <br />
