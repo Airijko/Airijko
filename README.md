@@ -13,19 +13,20 @@
 
 <hr />
 
-<div align="left">
-<img src="https://imgs.search.brave.com/8rSfXLsNdv3Ofz8FFg1u1qNHjYFd706UQ31H7v-_82E/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5ncnkt/Y2F0LWFubm95ZWQt/dXNpbmctbGFwdG9w/LXhrNjJzeWh0b2dz/dXVzdDUuZ2lm.gif" width="20%"/>
-</div>
-
-<div align="right">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jonathan-jimena-jr-269124224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan-jimena-jr-269124224" height="30" width="40" /></a>
-<a href="https://www.youtube.com/airijko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="airijko" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/airijko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="airijko" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/airijko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="airijko" height="30" width="40" /></a>
-</p>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://imgs.search.brave.com/8rSfXLsNdv3Ofz8FFg1u1qNHjYFd706UQ31H7v-_82E/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5ncnkt/Y2F0LWFubm95ZWQt/dXNpbmctbGFwdG9w/LXhrNjJzeWh0b2dz/dXVzdDUuZ2lm.gif" width="200px"/>
+    </td>
+    <td width="800">
+      <h1>Connect with me:</h1>
+      <a href="https://linkedin.com/in/jonathan-jimena-jr-269124224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan-jimena-jr-269124224" height="30" width="40" /></a>
+      <a href="https://www.youtube.com/airijko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="airijko" height="30" width="40" /></a>
+      <a href="https://www.hackerrank.com/airijko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="airijko" height="30" width="40" /></a>
+      <a href="https://www.leetcode.com/airijko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="airijko" height="30" width="40" /></a>
+    </td>
+  </tr>
+</table>
 
 <hr />
 
