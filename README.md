@@ -13,7 +13,6 @@
 
 <hr />
 
-<div align="left">
 <div>
 <img src="https://imgs.search.brave.com/8rSfXLsNdv3Ofz8FFg1u1qNHjYFd706UQ31H7v-_82E/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5ncnkt/Y2F0LWFubm95ZWQt/dXNpbmctbGFwdG9w/LXhrNjJzeWh0b2dz/dXVzdDUuZ2lm.gif" width="22%"/>
 </div>
@@ -26,8 +25,6 @@
 <a href="https://www.leetcode.com/airijko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="airijko" height="30" width="40" /></a>
 </p>
 </div>
-</div>
-
 
 <hr />
 
