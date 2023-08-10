@@ -13,7 +13,7 @@
 
 <hr />
 
-<div align="left">
+<div align="left" width="100%">
   <img src="https://imgs.search.brave.com/8rSfXLsNdv3Ofz8FFg1u1qNHjYFd706UQ31H7v-_82E/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5ncnkt/Y2F0LWFubm95ZWQt/dXNpbmctbGFwdG9w/LXhrNjJzeWh0b2dz/dXVzdDUuZ2lm.gif" width="22%"
 <h3 align="left">Connect with me:</h3>
 <p align="left">
