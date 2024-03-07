@@ -6,9 +6,9 @@
 <hr />
 
 <ul>
-<li>I am currently working on a side project with a friend called "Forever Free"</li>
-<li>I'm self teaching myself NextJS and TailwindCSS</li>
-<li>My goal is to become a master in full stack</li>
+<li>I creating softwares and databases</li>
+<li>I also have great knowledge in servers and databases</li>
+<li>My goal is to become a great software developer</li>
 </ul>
 
 <hr />
