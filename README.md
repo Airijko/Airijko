@@ -6,8 +6,8 @@
 <hr />
 
 <ul>
-<li>I creating softwares and databases</li>
-<li>I also have great knowledge in servers and databases</li>
+<li>I love creating software and webapps</li>
+<li>I also have great knowledge of servers and databases</li>
 <li>My goal is to become a great software developer</li>
 </ul>
 
