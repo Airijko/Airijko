@@ -1,7 +1,7 @@
 <h1 align="center">🔥 Hello, I'm Jojo aka Airijko 🔥</h1>
-<h3 align="center">I am a Business Information Technology Graduate</h3>
+<h3 align="center">Business Information Technology Graduate</h3>
 
-<div align="center" ><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7f79add4-cd7b-46e0-80ce-1142f7da12cb/d6ay2zy-19dfac76-7089-451a-891f-033ea78c6a58.png/v1/fit/w_400,h_126/aatrox_by_silentlipz_d6ay2zy-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI2IiwicGF0aCI6IlwvZlwvN2Y3OWFkZDQtY2Q3Yi00NmUwLTgwY2UtMTE0MmY3ZGExMmNiXC9kNmF5Mnp5LTE5ZGZhYzc2LTcwODktNDUxYS04OTFmLTAzM2VhNzhjNmE1OC5wbmciLCJ3aWR0aCI6Ijw9NDAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.N4nKrxlQTkLiivC0lwDSzk-iVM_b9j2dqTh9S8UVfok" width="100%"/> </div>
+<div align="center" ><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ab8b07a3-b2b2-4190-aeeb-28d27fe966c0/d8t5cca-7efabb31-adc7-4572-a221-fbee3dd38cee.png/v1/fill/w_851,h_315/aatrox_banner_by_mrfeno_d8t5cca-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzE1IiwicGF0aCI6IlwvZlwvYWI4YjA3YTMtYjJiMi00MTkwLWFlZWItMjhkMjdmZTk2NmMwXC9kOHQ1Y2NhLTdlZmFiYjMxLWFkYzctNDU3Mi1hMjIxLWZiZWUzZGQzOGNlZS5wbmciLCJ3aWR0aCI6Ijw9ODUxIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.9MlHXF1HLC7EYyJLne5u7Mb6dDczJuhlxppTzsOqB1k" width="100%"/> </div>
 
 <hr />
 
