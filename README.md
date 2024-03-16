@@ -1,8 +1,6 @@
-<h1> 
-  <div align="center">
-      <img src="images/AirijkoBanner.png" alt="airijko.png"/> 
-  </div>
-</h1>
+<div align="center">
+    <img src="images/AirijkoBanner.png" alt="airijko.png"/> 
+</div>
 
 <h1>
 <div align="center" ><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ab8b07a3-b2b2-4190-aeeb-28d27fe966c0/d8t5cca-7efabb31-adc7-4572-a221-fbee3dd38cee.png/v1/fill/w_851,h_315/aatrox_banner_by_mrfeno_d8t5cca-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzE1IiwicGF0aCI6IlwvZlwvYWI4YjA3YTMtYjJiMi00MTkwLWFlZWItMjhkMjdmZTk2NmMwXC9kOHQ1Y2NhLTdlZmFiYjMxLWFkYzctNDU3Mi1hMjIxLWZiZWUzZGQzOGNlZS5wbmciLCJ3aWR0aCI6Ijw9ODUxIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.9MlHXF1HLC7EYyJLne5u7Mb6dDczJuhlxppTzsOqB1k" width="100%"/> </div>
