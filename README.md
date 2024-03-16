@@ -13,19 +13,19 @@
 
 <hr />
 
-<table>
-  <tr>
-    <td>
-      <img src="https://cdn3.emoji.gg/emojis/7225-chipichipi-cat.gif" width="200px"/>
-    </td>
-    <td width="800">
-      <h1>Connect with me:</h1>
-      <a href="https://www.hackerrank.com/airijko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="airijko" height="30" width="40" /></a>
-      <a href="https://www.leetcode.com/airijko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="airijko" height="30" width="40" /></a>
-      <a href="https://www.youtube.com/airijko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="airijko" height="30" width="40" /></a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://cdn3.emoji.gg/emojis/7225-chipichipi-cat.gif" alt="chipicat" />
+  <img src="https://streak-stats.demolab.com?user=airijko&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+<hr />
+
+<div align="left">
+  <a href="https://www.youtube.com/@Airijko"> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
+  <a href="https://www.twitch.tv/Airijko"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /></a>
+  <a href="https://discord.com/invite/BB6uPv9W2y"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
+</div>
+
 
 <hr />
 
@@ -37,7 +37,3 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=airijko&label=Profile%20views&color=0e75b6&style=flat" alt="airijko" /> </p>
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=airijko&show_icons=true&locale=en&layout=compact" alt="airijko" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=airijko&show_icons=true&locale=en" alt="airijko" /></p> -->
