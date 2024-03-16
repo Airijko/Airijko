@@ -5,14 +5,6 @@
 
 <hr />
 
-<ul>
-<li>I love creating software and webapps</li>
-<li>I also have great knowledge of servers and databases</li>
-<li>My goal is to become a great software developer</li>
-</ul>
-
-<hr />
-
 <div align="center">
   <img src="https://cdn3.emoji.gg/emojis/7225-chipichipi-cat.gif" alt="chipicat" />
   <img src="https://streak-stats.demolab.com?user=airijko&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
