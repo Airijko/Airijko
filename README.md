@@ -5,10 +5,7 @@
 
 <hr />
 
-<div align="center">
-  <img src="https://cdn3.emoji.gg/emojis/7225-chipichipi-cat.gif" alt="chipicat" />
-  <img src="https://streak-stats.demolab.com?user=airijko&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<img src="https://raw.githubusercontent.com/Airijko/Airijko/output/snake.svg" alt="Snake animation" />
 
 <hr />
 
@@ -26,6 +23,11 @@
   
 </div>
 
+<hr />
 
+<div align="center">
+  <img src="https://cdn3.emoji.gg/emojis/7225-chipichipi-cat.gif" alt="chipicat" />
+  <img src="https://streak-stats.demolab.com?user=airijko&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=airijko&label=Profile%20views&color=0e75b6&style=flat" alt="airijko" /> </p>
