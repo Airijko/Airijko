@@ -1,14 +1,6 @@
-<h1>
 <div align="center" ><img src="images/JojoBanner2.png" alt="JOJO"/> </div>
 
 <img src="https://raw.githubusercontent.com/Airijko/Airijko/output/snake.svg" alt="Snake animation" />
-</h1>
-
-<div align="left">
-  <a href="https://www.youtube.com/@Airijko"> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
-  <a href="https://www.twitch.tv/Airijko"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /></a>
-  <a href="https://discord.com/invite/BB6uPv9W2y"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
-</div>
 
 <hr />
 
@@ -37,6 +29,12 @@
 <hr />
 
 <div align="center" ><img src="images/AirijkoBanner.png" alt="JOJO"/> </div>
+
+<div align="left">
+  <a href="https://www.youtube.com/@Airijko"> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
+  <a href="https://www.twitch.tv/Airijko"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /></a>
+  <a href="https://discord.com/invite/BB6uPv9W2y"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
+</div>
 
 <hr />
 
