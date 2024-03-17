@@ -1,5 +1,5 @@
 <h1>
-<div align="center" ><img src="images/JojoBanner.png" alt="JOJO"/> </div>
+<div align="center" ><img src="images/JojoBanner2.png" alt="JOJO"/> </div>
 
 <img src="https://raw.githubusercontent.com/Airijko/Airijko/output/snake.svg" alt="Snake animation" />
 </h1>
