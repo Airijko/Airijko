@@ -1,8 +1,8 @@
-<div align="center" ><img src="images/JojoBanner2.png" alt="JOJO"/> </div>
+<div align="center"><img src="images/JojoBanner2.png" alt="JOJO"/> </div>
+
+<h1 align="center">Hello! I'm Airijko AKA Jojo</h1>
 
 <img src="https://raw.githubusercontent.com/Airijko/Airijko/output/snake.svg" alt="Snake animation" />
-
-<hr />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
