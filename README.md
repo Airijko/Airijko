@@ -1,5 +1,4 @@
 <div align="center"><img src="images/JojoBanner2.png" alt="JOJO"/> </div>
-
 <h1 align="center">Hello! I'm Airijko AKA Jojo</h1>
 
 <img src="https://raw.githubusercontent.com/Airijko/Airijko/output/snake.svg" alt="Snake animation" />
@@ -40,5 +39,11 @@
 
 <div align="center">
   <img src="https://cdn3.emoji.gg/emojis/7225-chipichipi-cat.gif" alt="chipicat" />
-  <img src="https://streak-stats.demolab.com?user=airijko&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=airijko&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+<hr />
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Airijko&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </div>
