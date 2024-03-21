@@ -1,4 +1,4 @@
-<div align="center"><img src="images/JojoBanner2.png" alt="JOJO"/> </div>
+<div align="center"><img src="images/Airijko_Banner_2024.png" alt="JOJO"/> </div>
 <h1 align="center">Hello! I'm Airijko AKA Jojo</h1>
 
 <img src="https://raw.githubusercontent.com/Airijko/Airijko/output/snake.svg" alt="Snake animation" />
