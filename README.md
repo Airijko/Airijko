@@ -1,5 +1,3 @@
-<h1><div align="center"><img src="images/Airijko_Banner_2024.png" alt="JOJO"/> </div></h1>
-
 <img src="https://raw.githubusercontent.com/Airijko/Airijko/output/snake.svg" alt="Snake animation" />
 
 <div align="left">
